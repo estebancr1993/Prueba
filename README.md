@@ -1,2 +1,2 @@
-# Prueba
-prueba de github.
+# Descripción Prueba
+Prueba de github.
